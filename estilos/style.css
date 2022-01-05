@@ -49,7 +49,7 @@ header > h1 {
 }
 header > p {
     margin: auto;
-    margin-bottom: 20px;
+    padding-bottom: 20px;
     color: white;
     font-family: var(--fonte0);
     font-size: 1.2em;
